@@ -1,4 +1,9 @@
 ### Hi there 👋
+### About me
+Looking for a Remote job. Exceptionally focused and reliable Java Developer(full stack) with an outstanding work ethic. 6+ Exp
+
+Find me online...
+
 
 <!--
 **Boilerr/Boilerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
